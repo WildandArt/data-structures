@@ -1,8 +1,3 @@
-/*
-author : Art
-reviewer: David
-Date: 15/3
-*/
 
 #include <stdlib.h> 	/* malloc, free     */  
 #include <unistd.h> 	/* ssize_t ,size_t  */  
