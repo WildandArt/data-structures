@@ -1,12 +1,9 @@
-/*
-reviewer: Amitai
-author: Art
-*/
+
 #include <assert.h> /*assert*/
 #include <stddef.h> /*size_t */
 #include<stdlib.h>  /*malloc, free*/
-#include"../include/sorted_list.h"
-#include"../include/priority_queue.h"
+#include"sorted_list.h"
+#include"priority_queue.h"
 /*****************************************************************************/
 
 

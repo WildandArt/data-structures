@@ -1,11 +1,5 @@
-/*
-author: Art
-Reviewer: Alina
-Date: 9 May
-*/
 
 #include <stdlib.h> /*malloc,free*/
-
 #include "avl.h" /*API*/
 
 void printTree(avl_node_t *root, int space);

@@ -129,5 +129,5 @@ int SLLActionCounter(void* data, void* param);
 int SLLCompareInt(void* data, void* param);
 
 
-#endif /*__EX15_H__*/
+#endif /*__SLL_H__*/
 

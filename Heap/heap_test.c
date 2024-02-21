@@ -1,7 +1,5 @@
 
 #include <stdio.h>     /*malloc free */
-
-
 #include "heap.h"
 
 int ComperInt(const void *x, const void *y)

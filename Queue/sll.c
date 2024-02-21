@@ -1,12 +1,4 @@
 #include "sll.h"
-
-/*
-
-Reviewer: Maya
-Author:	Art
-date: 8 march
-*/
-
 #include <stdlib.h>	/*malloc*/
 #include <stdio.h>  	/* printf */
 #include <assert.h> 	/* assert */

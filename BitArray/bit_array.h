@@ -1,10 +1,4 @@
-/*
 
-	Author: 
-	Reviewer:
-	Date:28.02.2023
-	
-*/
 #ifndef __BIT_ARRAY_H__
 #define __BIT_ARRAY_H__
 #include <stddef.h>/*size_t*/

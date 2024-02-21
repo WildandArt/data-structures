@@ -1,4 +1,4 @@
-#include "ex12.h"
+#include "stack.h"
 #include <stdio.h>
 void testStackIsEmpty();
 void testStackCapacity();

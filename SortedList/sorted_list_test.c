@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "sorted_list.h"
+
 int CompareInts(void *data, void *new_data)
 {
 	return *(int*)data - *(int*)new_data;

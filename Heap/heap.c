@@ -1,7 +1,5 @@
 #include <stdlib.h> /*malloc , free*/
-
 #include <stdio.h> /*printf*/
-
 #include "heap.h"
 
 

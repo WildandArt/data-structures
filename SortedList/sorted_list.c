@@ -1,16 +1,12 @@
-/*
-reviewer : Ishai
-author : Art
-22 march
-*/
+
 /******************************************************************************/
 #include <stdio.h>  /* puts */
 #include <stdlib.h> /* malloc, free */
 #include <stddef.h> /* size_t, ssize_t */
 #include <assert.h> /* assert */
 
-#include "../include/sorted_list.h"    /* Internal use */
-#include "../include/dll.h"    /* Internal use */
+#include "sorted_list.h"    /* Internal use */
+#include "dll.h"    /* Internal use */
 
 /******************************************************************************/
 struct sorted_list

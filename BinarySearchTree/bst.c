@@ -1,9 +1,4 @@
 
-/*
-Author: Art
-Reviewer: Nir
-Date: 26 Apr Independence Day
-*/
 
 #include<stdlib.h>  /* malloc, free                                */
 #include <stdio.h>  /* printf for utility functions(printing tree) */

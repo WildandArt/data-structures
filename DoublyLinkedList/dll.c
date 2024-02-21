@@ -1,12 +1,4 @@
-#include "../include/dll.h"
-
-/*
-
-Reviewer: Yotam
-Author:	Art
-date: 17 march
-*/
-
+#include "dll.h"
 #include <stdlib.h>	/*malloc*/
 #include <stdio.h>  	/* printf */
 #include <assert.h> 	/* assert */

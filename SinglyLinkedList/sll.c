@@ -1,21 +1,10 @@
 #include "sll.h"
-
-/*
-
-Reviewer: Maya
-Author:	Art
-date: 8 march
-*/
-
 #include <stdlib.h>	/*malloc*/
 #include <stdio.h>  	/* printf */
 #include <assert.h> 	/* assert */
 
 int SLLActEmpty(void* data, void* param);
-/*
-typedef struct sll_node *sll_iter_t;
-typedef struct list sll_t;
-*/
+
 struct sll_node
 {
 	void* data;

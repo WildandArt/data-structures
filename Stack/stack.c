@@ -1,9 +1,3 @@
-/*
-author: Art
-reviewer: David
-date : 2 March											
-*/
-
 
 #include<stdio.h>  /* printf, size_t, NULL */					
 #include<stdlib.h> /* malloc               */					
