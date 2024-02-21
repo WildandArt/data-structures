@@ -1,2 +1,2 @@
 # data-structures
-Implementation of commin data structures in C/C++
+Implementation of common data structures in C/C++
